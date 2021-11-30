@@ -1,6 +1,6 @@
-# Luke Hart
-## Software Engineer @ [TNEI Services Ltd.](https://www.tneigroup.com)
-### IPSA Software
+### Luke Hart
+#### Software Engineer @ [TNEI Services Ltd.](https://www.tneigroup.com)
+###### IPSA Software
 
 - 🔭 I’m currently working on development of IPSA software source code (and in my downtime calculating how the distortions from the Big Bang are affected by dark energy)
 - 🌱 I’m currently learning how to write in Qt and JavaScript
